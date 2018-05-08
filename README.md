@@ -22,4 +22,4 @@ cat arquivo | cut -d' ' -f4
 3. carregue o nome e documento dos usuários que possuem telefone no Brasil (iniciam com +55)
 
 ## Desafio
-Mostre na tela o nome, e endereço ip de cada placa de rede disponível na máquina onde o linux está instalado
+Mostre na tela o endereço ip de cada placa de rede disponível na máquina onde o linux está
