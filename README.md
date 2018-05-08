@@ -1,3 +1,7 @@
+- [CUT](#cut)
+    - [Forma de uso](#forma-de-uso)
+    - [Exercícios](#exercicios)
+    - [Desafio](#desafio)
 # CUT
 
 O comando cut faz a separação de dados. Este comando pode ser usado diretamente ou como parte de algum script.
